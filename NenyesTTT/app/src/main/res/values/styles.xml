@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ticHomeText">
+        <item name="android:fontFamily">@font/stixtwotext_bold</item>
+        <item name="android:textSize">31sp</item>
+        <item name="android:textColor">#7E7B7B</item>
+    </style>
+    <style name="ticUserNameTitle">
+        <item name="android:fontFamily">@font/stixtwotext_bold</item>
+        <item name="android:textSize">50sp</item>
+        <item name="android:textColor">#7E7B7B</item>
+    </style>
+</resources>

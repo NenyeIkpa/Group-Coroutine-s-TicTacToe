@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Nenye\'sTTT</string>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="enterName">Enter Your Name</string>
+    <string name="FirstName">First Player Name</string>
+    <string name="SecondName">Second Player Name</string>
+
+
+    <string name="play">Play</string>
+    <string name="submit">Submit Names</string>
+
+    <string name="playAgain">Play Again</string>
+    <string name="quitButton">Quit</string>
 </resources>
